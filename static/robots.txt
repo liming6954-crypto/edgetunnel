@@ -1,0 +1,59 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Yandexbot
+Disallow: /
+
+User-agent: Facebot
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: GTmetrix
+Disallow: /
+
+User-agent: Pingdom
+Disallow: /
+
+User-agent: WebPageTest
+Disallow: /
+
+User-agent: Site24x7
+Disallow: /
+
+User-agent: UptimeRobot
+Disallow: /
+
+User-agent: SpeedCurve
+Disallow: /
+
+User-agent: DareBoost
+Disallow: /
+
+User-agent: Catchpoint
+Disallow: /
+
+User-agent: Dotcom-Monitor
+Disallow: /
